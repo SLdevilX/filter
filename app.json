@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/AswanthVK",
-    "repository": "https://github.com/AswanthVK/NewAdv-AutoFilterBot",
+    "repository": "https://github.com/SLdevilX/filter",
     "success_url": "https://telegram.dog/NewBotz",
     "env": {
         "APP_ID": {
